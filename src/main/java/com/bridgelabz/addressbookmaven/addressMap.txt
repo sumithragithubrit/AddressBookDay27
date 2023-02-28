@@ -1,1 +1,1 @@
-Family=AddressBook{contactList=[Contact{name='Sumithra', lastName='Buddareddy', address='Madanapalli', city='Tirumala', state='Andrapradhesh', phoneNo='7689098764', zipCode='517564'}]}
+Family=AddressBook{contactList=[Contact{name='Sumi', lastName='Buddareddy', address='AAAA', city='AAAA', state='fff', phoneNo='ff', zipCode='fff'}]}
